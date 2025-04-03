@@ -2,7 +2,7 @@
 
 Pour retourner au site d'Eztitasuna [eztitasuna](https://eztitasuna.fr).
 
-## une liste ordonnée
+## Liste ordonnée
 
 1. `mkdocs new [dir-name]` - Create a new project.
 2. `mkdocs serve` - Start the live-reloading docs server.
